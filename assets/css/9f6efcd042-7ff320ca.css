@@ -1,0 +1,21 @@
+/*!
+ *  Font Awesome v4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+@import url("font-awesome-cssmin-8f21aec6.css");
+/* FONT PATH
+ * -------------------------- */
+@font-face {
+  font-family: 'FontAwesome';
+  src: url("../fonts/fontawesome-webfont-42c216f2.eot");
+  src: url("../fonts/fontawesome-webfont-d9e7f4d5.eot#iefix") format('embedded-opentype'),
+       url("../fonts/fontawesome-webfont-1865afdc.woff2") format('woff2'),
+       url("../fonts/fontawesome-webfont-6e652981.woff") format('woff'),
+       url("../fonts/fontawesome-webfont-2b88dcc9.ttf") format('truetype'),
+       url("../img/fontawesome-webfont-1500570b.svg#fontawesomeregular") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/*
+Embed code 9f6efcd042
+*/
